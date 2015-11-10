@@ -47,6 +47,11 @@ yEd-3.14.4_with-JRE_32-bit_setup.exe
 KeePass-2.30-Setup.exe
 ```
 
+### Gestion Base de données MySQL
+* mysql-workbench
+```sh
+mysql-workbench-community-6.3.5-winx64.msi
+```
 
 ----
 
