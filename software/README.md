@@ -53,6 +53,17 @@ KeePass-2.30-Setup.exe
 mysql-workbench-community-6.3.5-winx64.msi
 ```
 
+### Machine virtuelle
+* VirtualBox
+```sh
+VirtualBox-5.0.10-104061-Win.exe
+```
+* Vagrant
+```sh
+vagrant_1.7.4.msi
+```
+
+
 ----
 
 ### titre
