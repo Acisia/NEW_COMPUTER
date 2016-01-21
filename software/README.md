@@ -78,6 +78,12 @@ ApacheJMeter.jar
 ```
 http://jmeter.apache.org/download_jmeter.cgi
 
+### Mind Map
+* Freemind
+```sh
+FreeMind-Windows-Installer-1.0.1-max.exe
+```
+
 ----
 
 ### titre
