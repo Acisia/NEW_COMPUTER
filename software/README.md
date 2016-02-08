@@ -23,6 +23,13 @@ Git-2.6.2-64-bit.exe
 gimp-2.8.14-setup-1.exe
 ```
 
+### Copie d'écran
+* Greenshot
+```sh
+Greenshot-INSTALLER-1.2.8.12-RELEASE.exe
+```
+http://getgreenshot.org/fr/
+
 ### Serveur WAMP
 * Wamp
 ```sh
@@ -83,6 +90,20 @@ http://jmeter.apache.org/download_jmeter.cgi
 ```sh
 FreeMind-Windows-Installer-1.0.1-max.exe
 ```
+
+### Création d'usb bootable
+* outil
+```sh
+unetbootin-windows-613.exe
+```
+http://sourceforge.net/projects/unetbootin/
+
+### Linux léger pour clé usb
+* outil
+```sh
+SlaXen-6.0_RCX_NoPAE-2015-05-29.iso
+```
+http://toutoulinux.free.fr/
 
 ----
 
