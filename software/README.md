@@ -126,6 +126,12 @@ SlaXen-6.0_RCX_NoPAE-2015-05-29.iso
 ```
 http://toutoulinux.free.fr/
 
+### Communication instantanée
+* skype
+```sh
+SkypeSetup.exe
+```
+http://www.skype.com/fr/download-skype/skype-for-windows/downloading/
 ----
 
 ### titre
