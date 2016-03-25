@@ -41,12 +41,14 @@ http://getgreenshot.org/downloads/
 ```sh
 wampserver2.5-Apache-2.4.9-Mysql-5.6.17-php5.5.12-64b.exe
 ```
+http://www.wampserver.com/
 
 ### Logiciel de création de diagrammes
 * Yed
 ```sh
 yEd-3.14.4_with-JRE_32-bit_setup.exe
 ```
+https://www.yworks.com/products/yed/download
 
 ### Modélisation UserCase
 * StarUML
@@ -60,24 +62,29 @@ https://sourceforge.net/projects/staruml/
 ```sh
 7z1509-x64.exe
 ```
+http://www.7-zip.org/
 
 ### Gestion des mots de passe
 * Keepass
 ```sh
 KeePass-2.30-Setup.exe
 ```
+https://sourceforge.net/projects/keepass/files/latest/download
 
 ### Gestion Base de données MySQL
 * mysql-workbench
 ```sh
 mysql-workbench-community-6.3.5-winx64.msi
 ```
+http://dev.mysql.com/downloads/workbench/
 
 ### Machine virtuelle
 * VirtualBox
 ```sh
 VirtualBox-5.0.10-104061-Win.exe
 ```
+https://www.virtualbox.org/wiki/Downloads
+
 * Vagrant
 ```sh
 vagrant_1.7.4.msi
@@ -89,7 +96,7 @@ http://www.vagrantbox.es/
 ```sh
 mRemoteNG-Installer-1.72.exe
 ```
-http://www.mremoteng.org
+http://www.mremoteng.org/download
 
 ### QA Test 
 * Apache JMeter
@@ -103,6 +110,7 @@ http://jmeter.apache.org/download_jmeter.cgi
 ```sh
 FreeMind-Windows-Installer-1.0.1-max.exe
 ```
+http://freemind.sourceforge.net/wiki/index.php/Download
 
 ### Création d'usb bootable
 * outil
