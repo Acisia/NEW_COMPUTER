@@ -12,6 +12,8 @@ https://filezilla-project.org/download.php?type=client
 ```sh
 npp.6.8.6.Installer.exe
 ```
+https://notepad-plus-plus.org/download/v6.9.html
+
 ### Terminal Shell
 * Git Bash
 ```sh
