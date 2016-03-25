@@ -19,12 +19,14 @@ https://notepad-plus-plus.org/download/v6.9.html
 ```sh
 Git-2.6.2-64-bit.exe
 ```
+https://git-scm.com/downloads
 
 ### Création Graphique
 * GIMP
 ```sh
 gimp-2.8.14-setup-1.exe
 ```
+https://www.gimp.org/downloads/
 
 ### Copie d'écran
 * Greenshot
@@ -32,6 +34,7 @@ gimp-2.8.14-setup-1.exe
 Greenshot-INSTALLER-1.2.8.12-RELEASE.exe
 ```
 http://getgreenshot.org/fr/
+http://getgreenshot.org/downloads/
 
 ### Serveur WAMP
 * Wamp
