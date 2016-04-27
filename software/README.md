@@ -107,6 +107,12 @@ VirtualBox-5.0.10-104061-Win.exe
 ```
 https://www.virtualbox.org/wiki/Downloads
 
+* Virtualbox extension pack
+```sh
+Oracle_VM_VirtualBox_Extension_Pack-5.0.18-106667.vbox-extpack
+```
+https://www.virtualbox.org/wiki/Downloads
+
 * Vagrant
 ```sh
 vagrant_1.7.4.msi
