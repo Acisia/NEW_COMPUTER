@@ -29,6 +29,19 @@ setup-x86_64.exe
 http://www.cygwin.com/
 http://www.cygwin.com/setup-x86_64.exe
 
+### Terminal SSH  
+* putty
+```sh
+putty-0.67-installer.msi 
+```
+http://www.putty.org/
+https://the.earth.li/~sgtatham/putty/latest/x86/putty-0.67-installer.msi
+
+* putty CM
+```sh
+puttycm0.7.1.136beta.exe 
+```
+https://docs.google.com/uc?id=0B_NLCn3T52-0MjVkNDA1MmYtYjZhNi00NDQwLTg1YmUtNGNiMjUwZWFkYjQ5&export=download&hl=en_US
 
 ### Création Graphique
 * GIMP
