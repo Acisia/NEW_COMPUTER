@@ -21,6 +21,15 @@ Git-2.6.2-64-bit.exe
 ```
 https://git-scm.com/downloads
 
+### Terminal Shell + rsync
+* cygwin
+```sh
+setup-x86_64.exe 
+```
+http://www.cygwin.com/
+http://www.cygwin.com/setup-x86_64.exe
+
+
 ### Création Graphique
 * GIMP
 ```sh
