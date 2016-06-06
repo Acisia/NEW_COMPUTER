@@ -58,6 +58,20 @@ Greenshot-INSTALLER-1.2.8.12-RELEASE.exe
 http://getgreenshot.org/fr/
 http://getgreenshot.org/downloads/
 
+### Enregistrement de vidéo d'écran
+* CamStudio
+```sh
+camstudio.exe
+```
+http://camstudio.org/
+
+### Enregistrement de vidéo d'écran
+* Webinaria
+```sh
+WebinariaSetup.exe
+```
+http://www.webinaria.com/
+
 ### Serveur WAMP
 * Wamp
 ```sh
