@@ -119,6 +119,13 @@ mysql-workbench-community-6.3.5-winx64.msi
 ```
 http://dev.mysql.com/downloads/workbench/
 
+### Lecteur virtuel
+* wincdemu
+```sh
+VirtualBox-5.0.10-104061-Win.exe
+```
+http://wincdemu.sysprogs.org/
+
 ### Machine virtuelle
 * VirtualBox
 ```sh
