@@ -14,6 +14,11 @@ npp.6.8.6.Installer.exe
 ```
 https://notepad-plus-plus.org/download/v6.9.html
 
+### Code Versionning 
+* Gitkraken
+```GitKrakenSetup.exe```
+https://www.gitkraken.com/
+
 ### Terminal Shell
 * Git Bash
 ```sh
