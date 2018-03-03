@@ -40,7 +40,7 @@ http://www.cygwin.com/setup-x86_64.exe
 putty-0.67-installer.msi 
 ```
 http://www.putty.org/
-https://the.earth.li/~sgtatham/putty/latest/x86/putty-0.67-installer.msi
+https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.70-installer.msi
 
 * putty CM
 ```sh
