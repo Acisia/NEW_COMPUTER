@@ -192,7 +192,10 @@ http://www.skype.com/fr/download-skype/skype-for-windows/downloading/
 ```sh
 audacity-win-2.2.1.exe
 ```
-
+   --> library pour mp3 : Lame:  https://lame.buanzo.org/#lamewindl
+```sh
+Lame_v3.99.3_for_Windows
+```
 ----
 ### titre
 * outil
