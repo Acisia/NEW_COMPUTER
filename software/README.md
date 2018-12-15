@@ -187,7 +187,13 @@ SkypeSetup.exe
 ```
 http://www.skype.com/fr/download-skype/skype-for-windows/downloading/
 ----
+###  Enregistreur et éditeur de montage audio
+* Audacity
+```sh
+audacity-win-2.2.1.exe
+```
 
+----
 ### titre
 * outil
 ```sh
