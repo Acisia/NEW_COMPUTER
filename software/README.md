@@ -10,9 +10,9 @@ https://filezilla-project.org/download.php?type=client
 ### Editeur de texte
 * Notepad ++
 ```sh
-npp.6.8.6.Installer.exe
+npp.7.8.4.Installer.x64.exe
 ```
-https://notepad-plus-plus.org/download/v6.9.html
+https://notepad-plus-plus.org/downloads/v7.8.4/
 
 ### Code Versionning 
 * Gitkraken
